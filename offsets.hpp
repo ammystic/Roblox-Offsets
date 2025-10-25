@@ -11,7 +11,7 @@
 // version-30215da31a3b42e2
 
 
-
+ 
     inline constexpr uintptr_t VisualEnginePointer = 0x7109258;
     inline constexpr uintptr_t DataModelDeleterPointer = 0x73A7080;
     inline constexpr uintptr_t TaskSchedulerPointer = 0x778C100;
